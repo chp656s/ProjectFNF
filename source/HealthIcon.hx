@@ -14,7 +14,7 @@ class HealthIcon extends FlxSprite
 		super();
 		if (PlayState.isNeo = true)
 		{
-			loadGraphic(Paths.image('neo/iconGridNeo'), true, 150, 150);
+			loadGraphic(Paths.image('neoPre/iconGridNeo'), true, 150, 150);
 			animation.add('bf-neo', [0, 1], 0, false, isPlayer);
 			// animation.add('bf-car', [0, 1], 0, false, isPlayer); // he turned into a convertible
 			// animation.add('bf-christmas', [0, 1], 0, false, isPlayer);
