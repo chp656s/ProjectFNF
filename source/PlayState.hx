@@ -54,6 +54,7 @@ class PlayState extends MusicBeatState
 		0xFF51d8fb, // BF-CAR
 		0xFF51d8fb, // BF-NEO
 		0xFFca1f6f, // GF
+		0xFFca1f6f, // GF-NEO
 		0xFFca1f6f, // GF-CHRISTMAS (Pretty sure this one doesn't really do anything.)
 		0xFFc885e5, // DAD
 		0xFFc885e5, // DAD-NEO
