@@ -689,6 +689,8 @@ class PlayState extends MusicBeatState
 
 		switch (curStage)
 		{
+			case 'stageneo':
+				gfVersion = 'gf-neo';
 			case 'limo':
 				if (carGf == true)
 				{
