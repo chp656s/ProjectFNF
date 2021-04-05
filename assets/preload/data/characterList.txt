@@ -2,9 +2,11 @@ bf
 bf-pixel
 bf-christmas
 bf-car
+bf-neo
 gf
 gf-christmas
 dad
+dad-neo
 mom
 mom-car
 parents-christmas

@@ -3187,7 +3187,7 @@
     "bpm": 100,
     "song": {
         "sectionLengths": [],
-        "player1": "bf",
+        "player1": "bf-neo",
         "notes": [
             {
                 "sectionNotes": [
@@ -6372,7 +6372,7 @@
                 "mustHitSection": true
             }
         ],
-        "player2": "dad",
+        "player2": "dad-neo",
         "song": "BopeeboNeo",
         "validScore": true,
         "sections": 0,

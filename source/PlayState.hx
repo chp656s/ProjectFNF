@@ -52,9 +52,11 @@ class PlayState extends MusicBeatState
 		0xFF9fe6ff, // BF-PIXEL
 		0xFF51d8fb, // BF-CHRISTMAS
 		0xFF51d8fb, // BF-CAR
+		0xFF51d8fb, // BF-NEO
 		0xFFca1f6f, // GF
 		0xFFca1f6f, // GF-CHRISTMAS (Pretty sure this one doesn't really do anything.)
 		0xFFc885e5, // DAD
+		0xFFc885e5, // DAD-NEO
 		0xFFec7aac, // MOM
 		0xFFec7aac, // MOM-CAR
 		0xFFffffff, // PARENTS-CHRISTMAS (Look I don't know what a Better color would be.)
@@ -259,6 +261,8 @@ class PlayState extends MusicBeatState
 				storyDifficultyText = "Normal";
 			case 2:
 				storyDifficultyText = "Hard";
+			case 3:
+				storyDifficultyText = "Neo";
 		}
 
 		iconRPC = SONG.player2;
